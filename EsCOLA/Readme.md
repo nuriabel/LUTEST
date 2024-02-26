@@ -11,8 +11,8 @@ Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus 
 Download
 
 
-Download EsCoLA inDomain data train and dev from https://github.com/nuriabel/LUTEST/
-For EsCoLA outDomain data and EsCoLA indomain test data, please contact nuria.bel@upf.edu.
+Download EsCoLA inDomain train and dev datasets, plus human annotation, from https://github.com/nuriabel/LUTEST/
+For EsCoLA outDomain dataset and EsCoLA inDomain test data, please contact nuria.bel@upf.edu.
 
 
 Data format
