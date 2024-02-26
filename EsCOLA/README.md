@@ -1,4 +1,5 @@
 Introduction
+
 The Spanish Corpus of Linguistic Acceptability (EsCoLA) includes 11,174 sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by CoLA: https://nyu-mll.github.io/CoLA/#
 
 
