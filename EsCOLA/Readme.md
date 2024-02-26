@@ -1,15 +1,23 @@
 Introduction
 The Spanish Corpus of Linguistic Acceptability (EsCoLA) includes 11,174 sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by CoLA: https://nyu-mll.github.io/CoLA/#
 
+
 Paper
+
+
 Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
 
 
 Download
+
+
 Download EsCoLA inDomain data train and dev from https://github.com/nuriabel/LUTEST/
 For EsCoLA outDomain data and EsCoLA indomain test data, please contact nuria.bel@upf.edu.
 
+
 Data format
+
+
 EsCoLA dataset is split into two subsets: an in-domain subset (InDomain) with 10,567 sentences, and an out-of-domain subset (OutDomain) with 607 sentences.
 The in-domain subset has been split five times into train/dev/test sections: 
 - train: 8454 sentences
@@ -37,8 +45,13 @@ For the out-of-domain, each line in the .tsv file consists of 6 tab-separated co
 - Column 5: the sentence
 - Column 6: the category of the linguistic phenomenon the sentence is an example of
 
+
 Corpus Sample
+
+
 In-domain:
+
+
 ID	Source	Label	Source_annotation	Annotator_1	Annotator_2	Annotator_3	Human_annotation_median	Sentence	Category	Split
 EsCoLA_5681	GDE35	1		1	0	1	1	¿Opinaron si debían hacerlo?	7	train
 EsCoLA_8872	GDE51	1		1	1	1	1	¿Quién ha llamado?	7	train
@@ -46,6 +59,8 @@ EsCoLA_5661	GDE35	1		1	0	0	0	No se sabe donde ir.	7	train
 EsCoLA_7328	GDE42	0	*	0	1	1	1	Sólo tenía una peseta, y aquel tipo me pedía doscientos.	14	train
 
 Out-of-domain:
+
+
 ID	Source	Label	Source annotation	Sentence	Category
 OD_1	ng34	1		El camino bordea el río.	1
 OD_2	ng34	1		Las aves vuelan.	1
@@ -56,10 +71,15 @@ OD_5	ng34	0	*	Dudo tu solución.	1
 
 
 Processing
+
+
 During gathering of the data and processing, some sentences from the source documents may have been omitted or altered. We discarded examples marking dubious acceptability with "?" or other signs, but those examples that included acceptability alternations were taken by creating the two versions: the acceptable and the unacceptable sentence. Finally, the examples that were not
 full sentences, that is, that contain no main verb, were manually edited to add a neutral verb to convert them into sentences, while keeping the acceptability value.
 
+
 Sources
+
+
 Demonte and Bosque (1999)-InDomain
 RAE (2009)-OutDomain
 Palencia and Aragonés (2007)-OutDomain
@@ -99,4 +119,6 @@ Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus 
 
 
 Disclaimer
+
+
 The dataset has been made copying the examples from published works that are protected by copyright. According to the anonymized law, we have respected the copyright because the number of elements taken represent less than a 10% of the whole work, and the number of items copied is justified by the aims of research.
