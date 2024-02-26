@@ -6,7 +6,8 @@ Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus 
 
 
 Download
-Download EsCoLA from https://github.com/nuriabel/LUTEST/
+Download EsCoLA inDomain data train and dev from https://github.com/nuriabel/LUTEST/
+For EsCoLA outDomain data and EsCoLA indomain test data, please contact nuria.bel@upf.edu.
 
 Data format
 EsCoLA dataset is split into two subsets: an in-domain subset (InDomain) with 10,567 sentences, and an out-of-domain subset (OutDomain) with 607 sentences.
