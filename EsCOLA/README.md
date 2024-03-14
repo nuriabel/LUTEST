@@ -6,7 +6,7 @@ The Spanish Corpus of Linguistic Acceptability (EsCoLA) includes 11,174 sentence
 Paper
 
 
-Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
+Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
 
 
 Download
@@ -116,7 +116,7 @@ Please, if you use the dataset cite the following papers:
 
 Alex Warstadt, Amanpreet Singh, and Samuel R. Bowman. 2018. Neural network acceptability judgments. arXiv preprint arXiv:1805.12471.
 
-Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
+Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
 
 
 Disclaimer
