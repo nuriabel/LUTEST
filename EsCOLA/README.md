@@ -24,7 +24,8 @@ The in-domain subset has been split five times into train/dev/test sections:
 - train: 8454 sentences
 - dev: 1053 sentences
 - test: 1060 sentences
-And the out-of-domain subset is split into dev/test sections. (no tenim la partició!!)
+And the out-of-domain subset is split into dev/test sections.
+
 The test sets are not made public.
 
 For the in-domain subset, each line in the .tsv files consists of 11 tab-separated columns:
