@@ -11,7 +11,7 @@ Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, EsCoLA: Spanish Corpus o
 
 Download
 
-
+The corpus has a CC-BY 4.0 license. 
 Download EsCoLA inDomain train and dev datasets, plus human annotation, from https://github.com/nuriabel/LUTEST/
 For EsCoLA outDomain dataset and EsCoLA inDomain test data, please contact nuria.bel@upf.edu.
 
@@ -122,4 +122,4 @@ Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, EsCoLA: Spanish Corpus o
 Disclaimer
 
 
-The dataset has been made copying the examples from published works that are protected by copyright. According to the anonymized law, we have respected the copyright because the number of elements taken represent less than a 10% of the whole work, and the number of items copied is justified by the aims of research.
+The dataset has been made copying the examples from published works that are protected by copyright. According to the Spanish law, we have respected the copyright because the number of elements taken represent less than a 10% of the whole work, and the number of items copied is justified by the aims of research.
