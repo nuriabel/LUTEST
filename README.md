@@ -6,7 +6,7 @@ LUTEST objective is the creation of test sets and an evaluation methodology that
 
 LUTEST has delivered two datasets: EsCoLA: Spanish Corpus of linguistic acceptability and CatCoLA: Catalan Corpus of Linguistic Acceptability. You can find them (only 1 partition and no test data) at the EsCOLA and CatCoLA directories respectively. The datasets are documented at the following publications. 
 
-Núria Bel, Marta Punsola, Valle Ruíz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
+Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, EsCoLA: Spanish Corpus of Linguistic Acceptability. Joint International Conference on Computational Linguistics, Language Resources and Evaluation LREC-COLING 2024. Torino. Italy. 
 
 Núria Bel, Marta Punsola, Valle Ruiz-Fernández, 2024, CatCoLA: Catalan Corpus of Linguistic Acceptability. Procesamiento del Lenguaje Natural 73, 2024.
 
